@@ -1,4 +1,4 @@
-# Sim Racer — Virtual Motorsport Championships on Your Hand! 🏎️
+# Sim Racer — Virtual Motorsport Championships
 
 Hi! This is the most ambitious project I'm currently working pm, and is about virtual motorsport.
 
