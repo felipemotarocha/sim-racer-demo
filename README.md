@@ -1,6 +1,6 @@
 # Sim Racer — Virtual Motorsport Championships
 
-Hi! This is the most ambitious project I'm currently working pm, and is about virtual motorsport.
+Hi! This is the most ambitious project I'm currently working on, and is about virtual motorsport.
 
 I'm a big fan of cars, especially when it comes to racing, so I found in this project a way to join a passion of mine with the opportunity to learn new technologies and practice my programming skills.
 
