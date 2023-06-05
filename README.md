@@ -1,4 +1,4 @@
-# Sim Racer — Virtual Motorsport Championships
+# Acelera+ — Virtual Motorsport Championships
 
 Hi! This is the most ambitious project I'm currently working on, and is about virtual motorsport.
 
@@ -76,22 +76,6 @@ You will be able to edit the following informations:
 - Edit Race Results
 - Delete the Championship
 
-Buuuut, all of this is still in development. This document will be updated as I make progress.
-
-## Implemented Functionalities (Done ✅)
-
-- ✅ Championship Creation
-
-- ✅ Championship Listing
-
-- ✅ Championship Details
-
-## Functionalities to Be Implemented (To Do 🚀)
-
-- 🚀 Championship Edition (specially race results)
-
-- 🚀 User Profile (with their statistics, like wins and titles count)
-
 ## Technologies Used 🛠
 
 - **Front-end:** React Native, TypeScript, Redux, Redux Thunk & React Native Testing Library for testing.
@@ -99,6 +83,11 @@ Buuuut, all of this is still in development. This document will be updated as I 
 - **Back-end:** Node.js, TypeScript, Jest & Supertest for testing. Clean Architecture principles are also widely used, like decoupling, layers separation and Dependency Injection.
 
 - **Database:** MongoDB with Mongoose.
+
+## Repositories 🛠
+
+- **Front-end**: https://github.com/felipemotarocha/aceleramais-app
+- ** Back-end**: https://github.com/felipemotarocha/aceleramais-api
 
 ## Test Coverage 🐐
 
