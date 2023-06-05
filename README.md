@@ -4,9 +4,7 @@ Hi! This is the most ambitious project I'm currently working on, and is about vi
 
 I'm a big fan of cars, especially when it comes to racing, so I found in this project a way to join a passion of mine with the opportunity to learn new technologies and practice my programming skills.
 
-## What is Sim Racer? 🤔
-
-_PS: This is not the project's final name. I just didn't manage to think in anything better than it so far._ 😂
+## What is Acelera+? 🤔
 
 It is, basically, an application that allows the **creation of virtual motorsport championships**. But, more important: **all the calculation of the championship standings** is done automatically based on the race results.
 
