@@ -85,7 +85,7 @@ You will be able to edit the following informations:
 ## Repositories 🛠
 
 - **Front-end**: https://github.com/felipemotarocha/aceleramais-app
-- ** Back-end**: https://github.com/felipemotarocha/aceleramais-api
+- **Back-end**: https://github.com/felipemotarocha/aceleramais-api
 
 ## Test Coverage 🐐
 
